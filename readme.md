@@ -2,12 +2,12 @@
 <h3 align="center">Web Developer | Twenty</h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/53/3f/78/533f78f885dc60b50275f70094c20b47.jpg" width="400" alt="Car"/>
+  <img src="https://i.pinimg.com/1200x/53/3f/78/533f78f885dc60b50275f70094c20b47.jpg" alt="Car"/>
 </p>
 
 ---
 <p align="center">
-<img src="https://i.pinimg.com/1200x/c7/1f/fc/c71ffc01313c3f8af79855c6dca6886c.jpg" width="400"/>
+<img src="https://i.pinimg.com/1200x/c7/1f/fc/c71ffc01313c3f8af79855c6dca6886c.jpg"/>
 </p>
 
 ### About Me
