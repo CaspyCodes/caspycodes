@@ -6,10 +6,6 @@
 </p>
 
 ---
-<p align="center">
-<img src="https://i.pinimg.com/1200x/c7/1f/fc/c71ffc01313c3f8af79855c6dca6886c.jpg"/>
-</p>
-
 ### About Me
 - currently working on: [nothing]
 - learning: [Coding]
